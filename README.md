@@ -1,6 +1,7 @@
 # mini nerual network project
 
-This project is about building and training two nerual networks for handwritten digits recognition.
+This project is about building and training two nerual networks for handwritten digits recognition,
+using MNIST database ([Homepage](http://yann.lecun.com/exdb/mnist/) of the provider).
 
 This repository contains:
 1. Description
