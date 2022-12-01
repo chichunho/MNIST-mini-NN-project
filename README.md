@@ -29,5 +29,5 @@ Following Python packages are used:
 
 ## Model performance
 
-Fully connected network: 97.62% test data accuracy
-Convolutional neural network: 98.98% test data accuracy
+- Fully connected network: 97.62% test data accuracy
+- Convolutional neural network: 98.98% test data accuracy
